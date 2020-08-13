@@ -11,6 +11,17 @@
 Feel free to send me a message! I may not use these platforms often, so if your message is time-critical your best bet is to send me an email. 
 
 
+<a href="mailto:bfuller@everware.io">
+  <img align="left" alt="My Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/bradfuller1/">
+  <img align="left" alt="My Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@bradfuller">
+  <img align="left" alt="My Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+</a>
+
+
 ## Languages & Technologies
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
