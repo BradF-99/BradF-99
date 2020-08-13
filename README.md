@@ -43,5 +43,5 @@ Wowee thats a lot of stuff!
 
 ## Statistics
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BradF-99&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BradF-99)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BradF-99&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BradF-99)
