@@ -20,7 +20,7 @@ Feel free to send me a message! I may not use these platforms often, so if your 
 <a href="https://medium.com/@bradfuller">
   <img align="left" alt="My Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
-
+<br/><br/>
 
 
 ## Languages & Technologies
