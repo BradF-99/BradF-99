@@ -12,14 +12,18 @@ Feel free to send me a message! I may not use these platforms often, so if your 
 
 
 <a href="mailto:bfuller@everware.io">
-  <img align="left" alt="My Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg"/>
+  <img align="left" alt="My email address" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/bradfuller1/">
-  <img align="left" alt="My Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="My Linkedin profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@bradfuller">
-  <img align="left" alt="My Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+  <img align="left" alt="My Medium profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
+<a href="https://music.apple.com/profile/bradf99">
+  <img align="left" alt="My Apple Music profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/applemusic.svg"/>
+</a>
+
 <br/><br/>
 
 
