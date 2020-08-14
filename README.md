@@ -57,5 +57,9 @@ Wowee thats a lot of stuff!
 
 ## Statistics
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BradF-99&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BradF-99)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=BradF-99&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradF-99&layout=compact" />
+</a>
