@@ -1,8 +1,8 @@
 # Hi, I'm Brad.
 
 ## About me
-* 🏢 I work as a **Mobile App Developer**. 
-* 🎓 I'm currently in my final semester of studies of my **Information Technology degree (Computer Science major)** at the *Queensland University of Technology*. 
+* 🏢 I work as a **Mobile App Developer** at [**Channelup**](https://channelup.com.au/). 
+* 🎓 I've just finished my final semester of studies of my **Information Technology degree (Computer Science major)** at the *Queensland University of Technology*. 
 * 👨‍💻 I specialise in **.NET / Xamarin development and cloud computing** - AWS, Azure, GCP, Oracle Cloud are some providers I am familiar with. A list of technologies I am familiar with (to some degree) are below.
 * 🏙️ I'm currently based in **Brisbane, Australia**, but all of my jobs (so far) have been remote work.
 
