@@ -50,8 +50,8 @@ Feel free to send me a message! I may not use these platforms often, so if your 
 Wowee thats a lot of stuff!
 
 ## Companies I've worked for / with
-* [**Channelup**](https://channelup.com.au/) *(University Capstone Project 2020)*
-* [**Everware.io**](https://everware.io/) *(2018-)*
+* [**Channelup**](https://channelup.com.au/) *(University Capstone Project 2020, 2020-present)*
+* [**Everware.io**](https://everware.io/) *(2018-present)*
 * [**Apple**](https://www.apple.com/au/) *(Class of 2018)*
 * [**Fiftysix Creations**](https://fiftysix.edu.au/) *(2016-17)*
 
