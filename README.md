@@ -8,7 +8,7 @@
 
 ## Am I open for new opportunities?
 
-Only if I wipe the production database at work, and if said new opportunity doesn't involve me doing the Revelian test again.
+Only if I wipe the production database at work - and if said new opportunity doesn't involve me doing a Revelian assessment again.
 
 ## Social Gubbins
 
