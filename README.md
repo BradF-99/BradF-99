@@ -1,16 +1,14 @@
 # Hi, I'm Brad.
 
 ## About me
-* 🏢 I work as a **Mobile App Developer** *with a hint of DevOps* at [**Channelup**](https://channelup.com.au/). 
-* 🎓 I've just finished my final semester of studies of my **Information Technology degree (Computer Science major)** at the *Queensland University of Technology*. 
+* 🏢 I'm a **Mobile App Developer** as well as **lead DevOps engineer** at [***Channelup***](https://channelup.com.au/). 
+* 🎓 I've just graduated with a **Information Technology degree (Computer Science major)** from the *Queensland University of Technology*. 
 * 👨‍💻 I specialise in **.NET / Xamarin development, DevOps, and PaaS Cloud Technologies** - AWS, Azure, GCP, and Oracle Cloud are some providers I am familiar with. A non-exhaustive list of technologies I am familiar with (to some degree) are below.
 * 🏙️ I'm currently based on the **Gold Coast** in **Queensland, Australia**.
 
 ## Am I open for new opportunities?
 
 Only if I wipe the production database at work. Hasn't happened yet - will keep you updated. 
-
-All of my jobs (so far) have been remote work. If remote doesn't work, I'm willing to move within Australia for the right position. As of writing I'm eligible to work in Australia and New Zealand. I would be open to global opportunities when it is safe to travel again.
  
 ## Social Gubbins
 
