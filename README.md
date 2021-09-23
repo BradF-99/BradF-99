@@ -1,21 +1,21 @@
 # Hi, I'm Brad.
 
 ## About me
-* 🏢 I'm a **Mobile App Developer**, as well as **lead DevOps engineer** and **SysAdmin** at [***Channelup***](https://channelup.com.au/). I also do some customer service on the side. 
+* 🏢 I'm a **Software Engineer**, as well as **DevOps engineer** and **SysAdmin** at [***Channelup***](https://channelup.com.au/). I also do some customer service on the side. 
 * 🎓 In January 2021, I graduated with a **Information Technology degree (Computer Science major)** from the [*Queensland University of Technology*](https://www.qut.edu.au/). 
 * 👨‍💻 I specialise in **.NET / Xamarin development, DevOps, and PaaS Cloud Technologies** - GCP, Azure, AWS, and Oracle Cloud are some providers I am familiar with. A non-exhaustive list of technologies I am familiar with (to some degree) are below.
 * 🏙️ I'm currently based on the **Gold Coast** in **Queensland, Australia**.
 
 ## Am I open for new opportunities?
 
-Only if I wipe the production database at work. Hasn't happened yet - will keep you updated. 
+Only if I wipe the production database at work. Surprisingly this hasn't happened yet - will keep you updated. 
  
 ## Social Gubbins
 
 Feel free to send me a message! I may not use these platforms often, so if your message is time-critical your best bet is to send me an email. 
 
 
-<a href="mailto:bfuller@everware.io">
+<a href="mailto:hello@bradfuller.xyz">
   <img align="left" alt="My email address" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/bradfuller1/">
