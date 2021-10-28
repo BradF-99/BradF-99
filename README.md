@@ -16,13 +16,16 @@ Feel free to send me a message! I may not use these platforms often, so if your 
 
 
 <a href="mailto:hello@bradfuller.xyz">
-  <img align="left" alt="My email address" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg"/>
+  <img align="left" alt="My email address" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/gmail.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/bradfuller1/">
-  <img align="left" alt="My Linkedin profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="My Linkedin profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/linkedin.svg" />
+</a>
+<a href="https://exercism.org/profiles/BradF-99">
+  <img align="left" alt="My Exercism profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/exercism.svg" />
 </a>
 <a href="https://music.apple.com/profile/bradf99">
-  <img align="left" alt="My Apple Music profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/applemusic.svg"/>
+  <img align="left" alt="My Apple Music profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/applemusic.svg"/>
 </a>
 
 <br/><br/>
@@ -53,6 +56,8 @@ Feel free to send me a message! I may not use these platforms often, so if your 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/likedan/Awesome-CoreML-Models/master/images/coreml.png"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4"></code>
+<code><img height="50" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/terraform.svg"></code>
 
 ## Companies I've worked for / with
 * [**Channelup**](https://channelup.com.au/) *(University Capstone Project 2020, 2020-present)*
