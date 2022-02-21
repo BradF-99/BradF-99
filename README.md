@@ -1,7 +1,7 @@
 # Hi, I'm Brad.
 
 ## About me
-* 🏢 I'm a **Software Engineer**, as well as **DevOps engineer** and **SysAdmin** at [***Channelup***](https://channelup.com.au/). I also do some customer service on the side. 
+* 🏢 I'm a **Software Engineer** at [***One Model***](https://www.onemodel.co/). 
 * 🎓 In January 2021, I graduated with a **Information Technology degree (Computer Science major)** from the [*Queensland University of Technology*](https://www.qut.edu.au/). 
 * 👨‍💻 I specialise in **.NET / Xamarin development, DevOps, and PaaS Cloud Technologies** - GCP, Azure, AWS, and Oracle Cloud are some providers I am familiar with. A non-exhaustive list of technologies I am familiar with (to some degree) are below.
 * 🏙️ I'm currently based on the **Gold Coast** in **Queensland, Australia**.
@@ -59,7 +59,8 @@ Feel free to send me a message! I may not use these platforms often, so if your 
 <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/terraform.svg"></code>
 
 ## Companies I've worked for / with
-* [**Channelup**](https://channelup.com.au/) *(University Capstone Project 2020, 2020-present)*
+* [**One Model**](https://www.onemodel.co/) *(2022-present)*
+* [**Channelup**](https://channelup.com.au/) *(University Capstone Project 2020, 2020-2022)*
 * [**5c6e**](https://5c6e.com/) *(2021-present)*
 * [**Everware.io**](https://everware.io/) *(2018-2021)*
 * [**Apple**](https://www.apple.com/au/) *("Class of 2018", 2018-2018)*
