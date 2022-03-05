@@ -3,12 +3,12 @@
 ## About me
 * 🏢 I'm a **Software Engineer** at [***One Model***](https://www.onemodel.co/). 
 * 🎓 In January 2021, I graduated with a **Information Technology degree (Computer Science major)** from the [*Queensland University of Technology*](https://www.qut.edu.au/). 
-* 👨‍💻 I specialise in **.NET / Xamarin development, DevOps, and PaaS Cloud Technologies** - GCP, Azure, AWS, and Oracle Cloud are some providers I am familiar with. A non-exhaustive list of technologies I am familiar with (to some degree) are below.
+* 👨‍💻 I specialise in **.NET / Xamarin development, DevOps, and PaaS Cloud Technologies** - GCP, AWS, Azure, and Oracle Cloud are some providers I am familiar with. A non-exhaustive list of technologies I am familiar with (to some degree) are below.
 * 🏙️ I'm currently based on the **Gold Coast** in **Queensland, Australia**.
 
 ## Am I open for new opportunities?
 
-Only if I wipe the production database at work. Surprisingly this hasn't happened yet - will keep you updated. 
+Not at the moment. 
  
 ## Social Gubbins
 
