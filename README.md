@@ -1,9 +1,7 @@
-# Hi, I'm Brad.
-
 ## About me
 * 🏢 I'm a **Software Engineer** at [***One Model***](https://www.onemodel.co/). 
 * 🎓 In January 2021, I graduated with a **Information Technology degree (Computer Science major)** from the [*Queensland University of Technology*](https://www.qut.edu.au/). 
-* 👨‍💻 I specialise in **.NET / Xamarin development, DevOps, and PaaS Cloud Technologies** - GCP, AWS, Azure, and Oracle Cloud are some providers I am familiar with. A non-exhaustive list of technologies I am familiar with (to some degree) are below.
+* 👨‍💻 I specialise in **.NET development, DevOps, and PaaS Cloud Technologies** - AWS, GCP, Azure, and Oracle Cloud are some providers I am familiar with. A non-exhaustive list of technologies I am familiar with (to some degree) are below.
 * 🏙️ I'm currently based on the **Gold Coast** in **Queensland, Australia**.
 
 ## Am I open for new opportunities?
@@ -23,9 +21,6 @@ Feel free to send me a message! I may not use these platforms often, so if your 
 </a>
 <a href="https://exercism.org/profiles/BradF-99">
   <img align="left" alt="My Exercism profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/exercism.svg" />
-</a>
-<a href="https://music.apple.com/profile/bradf99">
-  <img align="left" alt="My Apple Music profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/applemusic.svg"/>
 </a>
 
 <br/><br/>
@@ -53,9 +48,6 @@ Feel free to send me a message! I may not use these platforms often, so if your 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/7195757?s=200&v=4"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/likedan/Awesome-CoreML-Models/master/images/coreml.png"></code>
-<code><img height="50" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/terraform.svg"></code>
 
 ## Companies I've worked for / with
