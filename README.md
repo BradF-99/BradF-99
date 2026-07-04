@@ -1,14 +1,10 @@
 ## About me
-* 🏢 I'm a **Software Engineer** at [***One Model***](https://www.onemodel.co/). 
-* 🎓 In January 2021, I graduated with a **Information Technology degree (Computer Science major)** from the [*Queensland University of Technology*](https://www.qut.edu.au/). 
-* 👨‍💻 I specialise in **.NET development, DevOps, and SaaS Applications** - AWS, GCP, Azure, and Oracle Cloud are some providers I am familiar with. A non-exhaustive list of technologies I am familiar with (to some degree) are below.
-* 🏙️ I'm currently based on the **Gold Coast** in **Queensland, Australia**.
-
-## Am I open for new opportunities?
-
-Not at the moment. 
+* I'm a **Software Engineer** at [**One Model**](https://www.onemodel.co/).
+* In January 2021, I graduated with a Information Technology degree (Computer Science major) from the [**Queensland University of Technology**](https://www.qut.edu.au/). 
+* I specialise in .NET development, DevOps, and SaaS Applications.
+* I'm currently based on the Gold Coast in Queensland, Australia.
  
-## Social Gubbins
+## Social Links
 
 Feel free to send me a message! I may not use these platforms often, so if your message is time-critical your best bet is to send me an email. 
 
@@ -43,6 +39,10 @@ Feel free to send me a message! I may not use these platforms often, so if your 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/7195757?s=200&v=4"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4"></code>
+<code><img height="50" src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/modelcontextprotocol/docs/573dc60c2e7aab2605b29d0bf27194aa7b02e4fb/favicon.svg"></code>
+<code><img height="50" src="https://explore-feed.github.com/topics/oauth2/oauth2.png"></code>
+<code><img height="50" src="https://avatars.githubusercontent.com/u/25334553?s=200&v=4"></code>
 
 ## Companies I've worked for / with
 * [**One Model**](https://www.onemodel.co/) *(2022-present)*
@@ -51,9 +51,3 @@ Feel free to send me a message! I may not use these platforms often, so if your 
 * [**Everware.io**](https://everware.io/) *(2018-2021)*
 * [**Apple**](https://www.apple.com/au/) *("Class of 2018", 2018)*
 * [**Fiftysix Creations**](https://fiftysix.edu.au/) *(2016-17)*
-
-## Statistics
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradF-99&layout=compact" />
-</a>
